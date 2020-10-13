@@ -1,2 +1,2 @@
-# pruebaba_6kyu
+# DojoLab
 Pruebas del dojo
